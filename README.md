@@ -14,6 +14,7 @@ Le dossier final contiendra alors trois fichiers : BasicsProgram.java, BasicsPro
 * Déclarer une variable de chacun des types suivants :
 
     * `int`, `double`, `String`, `Scanner`
+        > N'oubliez pas qu'il faut aussi importer le Scanner
 
 * Initialiser les variables de la façon suivante pour chaque type :
 
